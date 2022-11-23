@@ -8,7 +8,7 @@ while (true) {
     if(n == null) {
         main.style.display = "none";
         cancel.style.display = "flex";
-        msg.innerHTML = "Thank you!!!";
+        msg.innerHTML = "EDI WOW";
     }
 
     if (n.length > 0) {
